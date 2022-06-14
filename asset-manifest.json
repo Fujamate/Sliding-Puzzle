@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fujamate/static/css/main.b87b3db4.css",
+    "main.js": "/Fujamate/static/js/main.ae18337c.js",
+    "index.html": "/Fujamate/index.html",
+    "main.b87b3db4.css.map": "/Fujamate/static/css/main.b87b3db4.css.map",
+    "main.ae18337c.js.map": "/Fujamate/static/js/main.ae18337c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b87b3db4.css",
+    "static/js/main.ae18337c.js"
+  ]
+}
